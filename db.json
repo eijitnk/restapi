@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Willian Eiji Tanaka",
+      "email": "willianeijitanaka@gmail.com"
+    }
+  ],
+   
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "name": "colors",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+      "id": 3
+    }
+  ]
+}
